@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @goldenprada
-- 👀 I’m interested in Analytics, Data Science and Math
+- 👀 I’m interested in Analytics, Data Science, Math and a bit Development
 - 📫 How to reach me:
 - mrtsbdlov@yahoo.com
 
