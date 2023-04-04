@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @goldenprada
-- 👀 I’m interested in Analytics, Data Science, Math and Development a bit:)
+- 👀 I’m interested in back-end development
 - 📫 How to reach me:
-- maratsaibodalov@gmail.com
+- maratsaibodalov@gmail.com or @enotiikk(telegram)
 
-Currently applying for the Internship
+Currently working as QA-engineer at Wildberries.
