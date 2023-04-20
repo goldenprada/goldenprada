@@ -3,6 +3,7 @@ My skills include:
 
 💻 Languages: C#, Python  
 💻 Python frameworks: FastApi, Selenium, NumPy, Pytorch and other scientific/ML stuff  
+💻 Databases: MySQL  
 🔌 Version control: Git, GitHub, GitLab  
 🔌 API tools: Postman, Insomnia  
 🔌 Project management: YouTrack  
