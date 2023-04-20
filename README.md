@@ -5,5 +5,5 @@ My skills include:
 💻 Python frameworks: FastApi, Selenium, NumPy, Pytorch and other scientific/ML stuff  
 🔌 Version control: Git, GitHub, GitLab  
 🔌 API tools: Postman, Insomnia  
-🔌 Tools: YouTrack  
+🔌 Project management: YouTrack  
 🌏 Communication: Fluent in written and spoken English, Native in Russian  
