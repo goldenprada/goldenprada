@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @goldenprada
-- 👀 I’m interested in back-end development
-- 📫 How to reach me:
-- maratsaibodalov@gmail.com or @enotiikk(telegram)
+Hello there 🐱 ⚡
+My skills include:
 
-Currently working as QA-engineer at Wildberries.
+💻 Languages: C#, Python  
+💻 Python frameworks: FastApi, Selenium, NumPy, Pytorch and other scientific/ML stuff.  
+🔌 Version control: Git, GitHub, GitLab  
+🔌 API tools: Postman, Insomnia  
+🔌 Tools: YouTrack  
+🌏 Communication: Fluent in written and spoken English, Native in Russian  
