@@ -7,4 +7,4 @@ My skills include:
 🔌 Version control: Git, GitHub, GitLab  
 🔌 API tools: Postman, Insomnia  
 🔌 Project management: YouTrack  
-🌏 Communication: Fluent in written and spoken English, Native in Russian  
+🌏 Communication: Fluent in written and spoken English(B2 FCE), Native in Russian  
