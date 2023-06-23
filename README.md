@@ -9,5 +9,6 @@ My skills include:
 🔌 Project management: YouTrack  
 🌏 Communication: Fluent in written and spoken English(B2 FCE), Native in Russian  
 
-📫: maratsaibodalov@gmail.com \\
+📫: maratsaibodalov@gmail.com 
+
 telegram: @enotiikk
