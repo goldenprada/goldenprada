@@ -10,5 +10,5 @@ My skills include:
 🌏 Communication: Fluent in written and spoken English(B2 FCE), Native in Russian  
 
 📫Contacts: 
-email: maratsaibodalov@gmail.com 
+email: maratsaibodalov@gmail.com  
 telegram: @enotiikk
