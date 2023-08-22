@@ -25,7 +25,7 @@
 email: maratsaibodalov@gmail.com  <br>
 telegram: @enotiikk
 </p>
-###
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
