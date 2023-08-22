@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Marat from Moscow, Russia<br><br>- 🔭 I’m working as Researcher at SRISA RAS and studying at PFUR (RUDN University) as PhD student in Math.<br>- 📚 I'm currently learning Graph Neural Networks :)<br>
+<p align="left">I'm Marat from Moscow, Russia<br><br>- 🔭 I’m working as AI Researcher at SRISA RAS and studying at PFUR (RUDN University) as PhD student in Math.<br>- 📚 I'm currently learning Graph Neural Networks :)<br>
 - 📫 Contacts: <br> 
 email: maratsaibodalov@gmail.com  <br>
 telegram: @enotiikk
